@@ -1,4 +1,4 @@
-# Project DNAdvise
+# DNAdvise
 
 ## Introduction:
 
