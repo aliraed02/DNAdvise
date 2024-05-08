@@ -26,13 +26,13 @@ DNAdvise is a revolutionary concept merging genetic data and AI to offer persona
 ## Technologies Used:
 
 - Python
-- Machine Learning (ML) algorithms
-- Natural Language Processing (NLP)
-- Web Development (HTML, CSS, JavaScript)
+- Generative AI 
+- Langchain, gemini
+- Web Development (Streamlit)
 
 ## Hackathon Win:
 
-- **Winner:** DNAdvise emerged victorious in the "Medical" category at the MENADevs for Gen-AI Hackathon, showcasing its innovation and potential to revolutionize personalized healthcare.
+- **Winner:** DNAdvise emerged victorious in the "Health Care" category at the MENADevs for Gen-AI Hackathon, showcasing its innovation and potential to revolutionize personalized healthcare.
 
 ## Date:
 
@@ -40,15 +40,5 @@ DNAdvise is a revolutionary concept merging genetic data and AI to offer persona
 
 ## Summary of Achievement:
 
-My team clinched first place in the "Medical" category at the MENADevs for Gen-AI Hackathon, presenting "DNAdvise", a dynamic solution empowering individuals to lead healthier lives and proactively manage their health, reflecting dedication, creativity, and collaborative spirit, with gratitude to MENADEVS and LTUC for hosting the event and all supporters.
+My team clinched first place in the "Heath Care" category at the MENADevs for Gen-AI Hackathon, presenting "DNAdvise", a dynamic solution empowering individuals to lead healthier lives and proactively manage their health, reflecting dedication, creativity, and collaborative spirit, with gratitude to MENADEVS and LTUC for hosting the event and all supporters.
 
-## Contributors:
-
-- [John Doe](https://github.com/johndoe) - Project Manager
-- [Jane Smith](https://github.com/janesmith) - Lead Developer
-- [Alice Johnson](https://github.com/alicejohnson) - Data Scientist
-- [Bob Williams](https://github.com/bobwilliams) - UX/UI Designer
-
-## License:
-
-This project is licensed under the [MIT License](LICENSE).
