@@ -36,7 +36,7 @@ DNAdvise is a revolutionary concept merging genetic data and AI to offer persona
 
 ## Date:
 
-- **Date:** 27th May 2024
+- **Date:** 26th-27th April 2024
 
 ## Summary of Achievement:
 
